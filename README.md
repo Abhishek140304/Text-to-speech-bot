@@ -17,7 +17,3 @@ The bot continuously takes user input, speaks it aloud, and exits when you type 
 - **Windows OS** (SAPI is Windows-only).
 - Python **3.7+** recommended.
 - Required library: `pywin32`.
-
-Install dependencies with:
-```bash
-pip install -r requirements.txt
